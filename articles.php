@@ -1,4 +1,4 @@
-<?php require_once "/includes/config.php"; ?>
+<?php require_once "includes/config.php"; ?>
 
 <!DOCTYPE html>
 <html lang="en">
@@ -19,7 +19,7 @@
 
   <div id="wrapper">
 
-        <?php include '/includes/header.php'; ?>
+        <?php include 'includes/header.php'; ?>
 
     <div id="content">
       <div class="container">
@@ -103,7 +103,7 @@
       </div>
     </div>
 
-    <?php include "/includes/footer.php"; ?>
+    <?php include "includes/footer.php"; ?>
 
   </div>
 

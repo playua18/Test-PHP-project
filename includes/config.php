@@ -5,9 +5,9 @@ $config = array(
     'title' => 'Блог IT Минималиста',
     'db' => array(
         'server' => 'localhost',
-        'username' => 'root',
-        'password' => '',
-        'name' => 'test_blog'
+        'username' => 'testphpproject',
+        'password' => '086818Dk',
+        'name' => 'testphpproject'
     )
 );
 
